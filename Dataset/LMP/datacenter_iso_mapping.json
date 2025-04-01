@@ -1,0 +1,126 @@
+{
+    "datacenters": {
+        "0": {
+            "name": "us-central1",
+            "location": "Iowa",
+            "renewable": 0.95,
+            "co2": 430,
+            "iso_region": "MISO",
+            "iso_price_file": "ILLINOIS_MISO_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "1": {
+            "name": "us-east1",
+            "location": "South Carolina",
+            "renewable": 0.29,
+            "co2": 560,
+            "iso_region": "SOUTHEAST",
+            "iso_price_file": "PJM_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "2": {
+            "name": "us-east4",
+            "location": "Northern Virginia",
+            "renewable": 0.52,
+            "co2": 322,
+            "iso_region": "PJM",
+            "iso_price_file": "PJM_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "3": {
+            "name": "us-east5",
+            "location": "Columbus",
+            "renewable": 0.52,
+            "co2": 322,
+            "iso_region": "PJM",
+            "iso_price_file": "PJM_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "4": {
+            "name": "us-south1",
+            "location": "Dallas",
+            "renewable": 0.79,
+            "co2": 321,
+            "iso_region": "ERCOT",
+            "iso_price_file": "ERCOT_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "5": {
+            "name": "us-west1",
+            "location": "Oregon",
+            "renewable": 0.84,
+            "co2": 94,
+            "iso_region": "CAISO",
+            "iso_price_file": "CAISO_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "6": {
+            "name": "us-west2",
+            "location": "Los Angeles",
+            "renewable": 0.55,
+            "co2": 198,
+            "iso_region": "CAISO",
+            "iso_price_file": "CAISO_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "7": {
+            "name": "us-west3",
+            "location": "Salt Lake City",
+            "renewable": 0.29,
+            "co2": 588,
+            "iso_region": "WEST",
+            "iso_price_file": "CAISO_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        },
+        "8": {
+            "name": "us-west4",
+            "location": "Las Vegas",
+            "renewable": 0.26,
+            "co2": 373,
+            "iso_region": "WEST",
+            "iso_price_file": "CAISO_LMP.csv",
+            "iso_match_type": "datacenter_name"
+        }
+    },
+    "iso_regions": {
+        "PJM": {
+            "price_file": "PJM_LMP.csv",
+            "datacenters": [
+                2,
+                3
+            ]
+        },
+        "ERCOT": {
+            "price_file": "ERCOT_LMP.csv",
+            "datacenters": [
+                4
+            ]
+        },
+        "SOUTHEAST": {
+            "price_file": "PJM_LMP.csv",
+            "datacenters": [
+                1
+            ]
+        },
+        "CAISO": {
+            "price_file": "CAISO_LMP.csv",
+            "datacenters": [
+                5,
+                6
+            ]
+        },
+        "WEST": {
+            "price_file": "CAISO_LMP.csv",
+            "datacenters": [
+                7,
+                8
+            ]
+        },
+        "MISO": {
+            "price_file": "ILLINOIS_MISO_LMP.csv",
+            "datacenters": [
+                0
+            ]
+        }
+    }
+}
