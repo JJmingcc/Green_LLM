@@ -1,0 +1,1081 @@
+region,region_name,query_type,hour,demand,population
+0,Iowa,0,0,500,3.2
+0,Iowa,0,1,500,3.2
+0,Iowa,0,2,500,3.2
+0,Iowa,0,3,500,3.2
+0,Iowa,0,4,500,3.2
+0,Iowa,0,5,500,3.2
+0,Iowa,0,6,500,3.2
+0,Iowa,0,7,500,3.2
+0,Iowa,0,8,500,3.2
+0,Iowa,0,9,500,3.2
+0,Iowa,0,10,500,3.2
+0,Iowa,0,11,500,3.2
+0,Iowa,0,12,555,3.2
+0,Iowa,0,13,500,3.2
+0,Iowa,0,14,500,3.2
+0,Iowa,0,15,500,3.2
+0,Iowa,0,16,500,3.2
+0,Iowa,0,17,500,3.2
+0,Iowa,0,18,500,3.2
+0,Iowa,0,19,500,3.2
+0,Iowa,0,20,500,3.2
+0,Iowa,0,21,500,3.2
+0,Iowa,0,22,500,3.2
+0,Iowa,0,23,500,3.2
+0,Iowa,1,0,500,3.2
+0,Iowa,1,1,500,3.2
+0,Iowa,1,2,500,3.2
+0,Iowa,1,3,500,3.2
+0,Iowa,1,4,500,3.2
+0,Iowa,1,5,500,3.2
+0,Iowa,1,6,500,3.2
+0,Iowa,1,7,500,3.2
+0,Iowa,1,8,500,3.2
+0,Iowa,1,9,500,3.2
+0,Iowa,1,10,500,3.2
+0,Iowa,1,11,500,3.2
+0,Iowa,1,12,500,3.2
+0,Iowa,1,13,500,3.2
+0,Iowa,1,14,500,3.2
+0,Iowa,1,15,500,3.2
+0,Iowa,1,16,500,3.2
+0,Iowa,1,17,500,3.2
+0,Iowa,1,18,500,3.2
+0,Iowa,1,19,500,3.2
+0,Iowa,1,20,500,3.2
+0,Iowa,1,21,500,3.2
+0,Iowa,1,22,500,3.2
+0,Iowa,1,23,500,3.2
+0,Iowa,2,0,500,3.2
+0,Iowa,2,1,500,3.2
+0,Iowa,2,2,500,3.2
+0,Iowa,2,3,500,3.2
+0,Iowa,2,4,500,3.2
+0,Iowa,2,5,500,3.2
+0,Iowa,2,6,500,3.2
+0,Iowa,2,7,500,3.2
+0,Iowa,2,8,500,3.2
+0,Iowa,2,9,500,3.2
+0,Iowa,2,10,500,3.2
+0,Iowa,2,11,500,3.2
+0,Iowa,2,12,500,3.2
+0,Iowa,2,13,500,3.2
+0,Iowa,2,14,500,3.2
+0,Iowa,2,15,500,3.2
+0,Iowa,2,16,500,3.2
+0,Iowa,2,17,500,3.2
+0,Iowa,2,18,500,3.2
+0,Iowa,2,19,500,3.2
+0,Iowa,2,20,500,3.2
+0,Iowa,2,21,500,3.2
+0,Iowa,2,22,500,3.2
+0,Iowa,2,23,500,3.2
+0,Iowa,3,0,500,3.2
+0,Iowa,3,1,500,3.2
+0,Iowa,3,2,500,3.2
+0,Iowa,3,3,500,3.2
+0,Iowa,3,4,500,3.2
+0,Iowa,3,5,500,3.2
+0,Iowa,3,6,500,3.2
+0,Iowa,3,7,500,3.2
+0,Iowa,3,8,500,3.2
+0,Iowa,3,9,500,3.2
+0,Iowa,3,10,500,3.2
+0,Iowa,3,11,500,3.2
+0,Iowa,3,12,500,3.2
+0,Iowa,3,13,500,3.2
+0,Iowa,3,14,500,3.2
+0,Iowa,3,15,500,3.2
+0,Iowa,3,16,500,3.2
+0,Iowa,3,17,500,3.2
+0,Iowa,3,18,500,3.2
+0,Iowa,3,19,500,3.2
+0,Iowa,3,20,500,3.2
+0,Iowa,3,21,500,3.2
+0,Iowa,3,22,500,3.2
+0,Iowa,3,23,500,3.2
+0,Iowa,4,0,500,3.2
+0,Iowa,4,1,500,3.2
+0,Iowa,4,2,500,3.2
+0,Iowa,4,3,500,3.2
+0,Iowa,4,4,500,3.2
+0,Iowa,4,5,500,3.2
+0,Iowa,4,6,500,3.2
+0,Iowa,4,7,500,3.2
+0,Iowa,4,8,500,3.2
+0,Iowa,4,9,500,3.2
+0,Iowa,4,10,500,3.2
+0,Iowa,4,11,500,3.2
+0,Iowa,4,12,500,3.2
+0,Iowa,4,13,500,3.2
+0,Iowa,4,14,500,3.2
+0,Iowa,4,15,500,3.2
+0,Iowa,4,16,500,3.2
+0,Iowa,4,17,500,3.2
+0,Iowa,4,18,500,3.2
+0,Iowa,4,19,500,3.2
+0,Iowa,4,20,500,3.2
+0,Iowa,4,21,500,3.2
+0,Iowa,4,22,500,3.2
+0,Iowa,4,23,500,3.2
+1,South Carolina,0,0,500,5.1
+1,South Carolina,0,1,500,5.1
+1,South Carolina,0,2,500,5.1
+1,South Carolina,0,3,500,5.1
+1,South Carolina,0,4,500,5.1
+1,South Carolina,0,5,500,5.1
+1,South Carolina,0,6,500,5.1
+1,South Carolina,0,7,500,5.1
+1,South Carolina,0,8,500,5.1
+1,South Carolina,0,9,500,5.1
+1,South Carolina,0,10,500,5.1
+1,South Carolina,0,11,590,5.1
+1,South Carolina,0,12,628,5.1
+1,South Carolina,0,13,651,5.1
+1,South Carolina,0,14,551,5.1
+1,South Carolina,0,15,601,5.1
+1,South Carolina,0,16,500,5.1
+1,South Carolina,0,17,531,5.1
+1,South Carolina,0,18,619,5.1
+1,South Carolina,0,19,500,5.1
+1,South Carolina,0,20,500,5.1
+1,South Carolina,0,21,500,5.1
+1,South Carolina,0,22,500,5.1
+1,South Carolina,0,23,500,5.1
+1,South Carolina,1,0,500,5.1
+1,South Carolina,1,1,500,5.1
+1,South Carolina,1,2,500,5.1
+1,South Carolina,1,3,500,5.1
+1,South Carolina,1,4,500,5.1
+1,South Carolina,1,5,500,5.1
+1,South Carolina,1,6,500,5.1
+1,South Carolina,1,7,500,5.1
+1,South Carolina,1,8,500,5.1
+1,South Carolina,1,9,500,5.1
+1,South Carolina,1,10,500,5.1
+1,South Carolina,1,11,500,5.1
+1,South Carolina,1,12,661,5.1
+1,South Carolina,1,13,565,5.1
+1,South Carolina,1,14,500,5.1
+1,South Carolina,1,15,500,5.1
+1,South Carolina,1,16,500,5.1
+1,South Carolina,1,17,500,5.1
+1,South Carolina,1,18,549,5.1
+1,South Carolina,1,19,500,5.1
+1,South Carolina,1,20,500,5.1
+1,South Carolina,1,21,500,5.1
+1,South Carolina,1,22,500,5.1
+1,South Carolina,1,23,500,5.1
+1,South Carolina,2,0,500,5.1
+1,South Carolina,2,1,500,5.1
+1,South Carolina,2,2,500,5.1
+1,South Carolina,2,3,500,5.1
+1,South Carolina,2,4,500,5.1
+1,South Carolina,2,5,500,5.1
+1,South Carolina,2,6,500,5.1
+1,South Carolina,2,7,500,5.1
+1,South Carolina,2,8,500,5.1
+1,South Carolina,2,9,500,5.1
+1,South Carolina,2,10,500,5.1
+1,South Carolina,2,11,500,5.1
+1,South Carolina,2,12,500,5.1
+1,South Carolina,2,13,500,5.1
+1,South Carolina,2,14,500,5.1
+1,South Carolina,2,15,500,5.1
+1,South Carolina,2,16,500,5.1
+1,South Carolina,2,17,500,5.1
+1,South Carolina,2,18,500,5.1
+1,South Carolina,2,19,500,5.1
+1,South Carolina,2,20,500,5.1
+1,South Carolina,2,21,500,5.1
+1,South Carolina,2,22,500,5.1
+1,South Carolina,2,23,500,5.1
+1,South Carolina,3,0,500,5.1
+1,South Carolina,3,1,500,5.1
+1,South Carolina,3,2,500,5.1
+1,South Carolina,3,3,500,5.1
+1,South Carolina,3,4,500,5.1
+1,South Carolina,3,5,500,5.1
+1,South Carolina,3,6,500,5.1
+1,South Carolina,3,7,500,5.1
+1,South Carolina,3,8,500,5.1
+1,South Carolina,3,9,500,5.1
+1,South Carolina,3,10,500,5.1
+1,South Carolina,3,11,500,5.1
+1,South Carolina,3,12,500,5.1
+1,South Carolina,3,13,500,5.1
+1,South Carolina,3,14,500,5.1
+1,South Carolina,3,15,500,5.1
+1,South Carolina,3,16,500,5.1
+1,South Carolina,3,17,500,5.1
+1,South Carolina,3,18,500,5.1
+1,South Carolina,3,19,500,5.1
+1,South Carolina,3,20,500,5.1
+1,South Carolina,3,21,500,5.1
+1,South Carolina,3,22,500,5.1
+1,South Carolina,3,23,500,5.1
+1,South Carolina,4,0,500,5.1
+1,South Carolina,4,1,500,5.1
+1,South Carolina,4,2,500,5.1
+1,South Carolina,4,3,500,5.1
+1,South Carolina,4,4,500,5.1
+1,South Carolina,4,5,500,5.1
+1,South Carolina,4,6,500,5.1
+1,South Carolina,4,7,500,5.1
+1,South Carolina,4,8,500,5.1
+1,South Carolina,4,9,500,5.1
+1,South Carolina,4,10,500,5.1
+1,South Carolina,4,11,500,5.1
+1,South Carolina,4,12,500,5.1
+1,South Carolina,4,13,500,5.1
+1,South Carolina,4,14,500,5.1
+1,South Carolina,4,15,500,5.1
+1,South Carolina,4,16,500,5.1
+1,South Carolina,4,17,500,5.1
+1,South Carolina,4,18,500,5.1
+1,South Carolina,4,19,500,5.1
+1,South Carolina,4,20,500,5.1
+1,South Carolina,4,21,500,5.1
+1,South Carolina,4,22,500,5.1
+1,South Carolina,4,23,500,5.1
+2,North Virginia,0,0,500,8.6
+2,North Virginia,0,1,500,8.6
+2,North Virginia,0,2,500,8.6
+2,North Virginia,0,3,500,8.6
+2,North Virginia,0,4,500,8.6
+2,North Virginia,0,5,500,8.6
+2,North Virginia,0,6,500,8.6
+2,North Virginia,0,7,500,8.6
+2,North Virginia,0,8,783,8.6
+2,North Virginia,0,9,1090,8.6
+2,North Virginia,0,10,1154,8.6
+2,North Virginia,0,11,1200,8.6
+2,North Virginia,0,12,1200,8.6
+2,North Virginia,0,13,1200,8.6
+2,North Virginia,0,14,1200,8.6
+2,North Virginia,0,15,1200,8.6
+2,North Virginia,0,16,1200,8.6
+2,North Virginia,0,17,1200,8.6
+2,North Virginia,0,18,1200,8.6
+2,North Virginia,0,19,1200,8.6
+2,North Virginia,0,20,1092,8.6
+2,North Virginia,0,21,880,8.6
+2,North Virginia,0,22,557,8.6
+2,North Virginia,0,23,500,8.6
+2,North Virginia,1,0,500,8.6
+2,North Virginia,1,1,500,8.6
+2,North Virginia,1,2,500,8.6
+2,North Virginia,1,3,500,8.6
+2,North Virginia,1,4,500,8.6
+2,North Virginia,1,5,500,8.6
+2,North Virginia,1,6,500,8.6
+2,North Virginia,1,7,500,8.6
+2,North Virginia,1,8,660,8.6
+2,North Virginia,1,9,938,8.6
+2,North Virginia,1,10,1037,8.6
+2,North Virginia,1,11,1200,8.6
+2,North Virginia,1,12,1200,8.6
+2,North Virginia,1,13,1200,8.6
+2,North Virginia,1,14,1200,8.6
+2,North Virginia,1,15,1155,8.6
+2,North Virginia,1,16,1108,8.6
+2,North Virginia,1,17,1200,8.6
+2,North Virginia,1,18,1200,8.6
+2,North Virginia,1,19,1096,8.6
+2,North Virginia,1,20,1149,8.6
+2,North Virginia,1,21,680,8.6
+2,North Virginia,1,22,607,8.6
+2,North Virginia,1,23,500,8.6
+2,North Virginia,2,0,500,8.6
+2,North Virginia,2,1,500,8.6
+2,North Virginia,2,2,500,8.6
+2,North Virginia,2,3,500,8.6
+2,North Virginia,2,4,500,8.6
+2,North Virginia,2,5,500,8.6
+2,North Virginia,2,6,500,8.6
+2,North Virginia,2,7,500,8.6
+2,North Virginia,2,8,508,8.6
+2,North Virginia,2,9,763,8.6
+2,North Virginia,2,10,928,8.6
+2,North Virginia,2,11,1058,8.6
+2,North Virginia,2,12,1099,8.6
+2,North Virginia,2,13,1051,8.6
+2,North Virginia,2,14,1065,8.6
+2,North Virginia,2,15,987,8.6
+2,North Virginia,2,16,883,8.6
+2,North Virginia,2,17,958,8.6
+2,North Virginia,2,18,1097,8.6
+2,North Virginia,2,19,917,8.6
+2,North Virginia,2,20,844,8.6
+2,North Virginia,2,21,605,8.6
+2,North Virginia,2,22,500,8.6
+2,North Virginia,2,23,500,8.6
+2,North Virginia,3,0,500,8.6
+2,North Virginia,3,1,500,8.6
+2,North Virginia,3,2,500,8.6
+2,North Virginia,3,3,500,8.6
+2,North Virginia,3,4,500,8.6
+2,North Virginia,3,5,500,8.6
+2,North Virginia,3,6,500,8.6
+2,North Virginia,3,7,500,8.6
+2,North Virginia,3,8,500,8.6
+2,North Virginia,3,9,581,8.6
+2,North Virginia,3,10,632,8.6
+2,North Virginia,3,11,877,8.6
+2,North Virginia,3,12,829,8.6
+2,North Virginia,3,13,767,8.6
+2,North Virginia,3,14,832,8.6
+2,North Virginia,3,15,758,8.6
+2,North Virginia,3,16,694,8.6
+2,North Virginia,3,17,750,8.6
+2,North Virginia,3,18,775,8.6
+2,North Virginia,3,19,680,8.6
+2,North Virginia,3,20,616,8.6
+2,North Virginia,3,21,500,8.6
+2,North Virginia,3,22,500,8.6
+2,North Virginia,3,23,500,8.6
+2,North Virginia,4,0,500,8.6
+2,North Virginia,4,1,500,8.6
+2,North Virginia,4,2,500,8.6
+2,North Virginia,4,3,500,8.6
+2,North Virginia,4,4,500,8.6
+2,North Virginia,4,5,500,8.6
+2,North Virginia,4,6,500,8.6
+2,North Virginia,4,7,500,8.6
+2,North Virginia,4,8,500,8.6
+2,North Virginia,4,9,500,8.6
+2,North Virginia,4,10,500,8.6
+2,North Virginia,4,11,500,8.6
+2,North Virginia,4,12,500,8.6
+2,North Virginia,4,13,500,8.6
+2,North Virginia,4,14,500,8.6
+2,North Virginia,4,15,500,8.6
+2,North Virginia,4,16,500,8.6
+2,North Virginia,4,17,500,8.6
+2,North Virginia,4,18,500,8.6
+2,North Virginia,4,19,500,8.6
+2,North Virginia,4,20,500,8.6
+2,North Virginia,4,21,500,8.6
+2,North Virginia,4,22,500,8.6
+2,North Virginia,4,23,500,8.6
+3,Columbus,0,0,500,11.8
+3,Columbus,0,1,500,11.8
+3,Columbus,0,2,500,11.8
+3,Columbus,0,3,500,11.8
+3,Columbus,0,4,500,11.8
+3,Columbus,0,5,500,11.8
+3,Columbus,0,6,500,11.8
+3,Columbus,0,7,500,11.8
+3,Columbus,0,8,500,11.8
+3,Columbus,0,9,694,11.8
+3,Columbus,0,10,864,11.8
+3,Columbus,0,11,1025,11.8
+3,Columbus,0,12,1200,11.8
+3,Columbus,0,13,1122,11.8
+3,Columbus,0,14,1124,11.8
+3,Columbus,0,15,886,11.8
+3,Columbus,0,16,909,11.8
+3,Columbus,0,17,939,11.8
+3,Columbus,0,18,1126,11.8
+3,Columbus,0,19,883,11.8
+3,Columbus,0,20,754,11.8
+3,Columbus,0,21,573,11.8
+3,Columbus,0,22,500,11.8
+3,Columbus,0,23,500,11.8
+3,Columbus,1,0,500,11.8
+3,Columbus,1,1,500,11.8
+3,Columbus,1,2,500,11.8
+3,Columbus,1,3,500,11.8
+3,Columbus,1,4,500,11.8
+3,Columbus,1,5,500,11.8
+3,Columbus,1,6,500,11.8
+3,Columbus,1,7,500,11.8
+3,Columbus,1,8,500,11.8
+3,Columbus,1,9,713,11.8
+3,Columbus,1,10,813,11.8
+3,Columbus,1,11,851,11.8
+3,Columbus,1,12,893,11.8
+3,Columbus,1,13,1012,11.8
+3,Columbus,1,14,870,11.8
+3,Columbus,1,15,879,11.8
+3,Columbus,1,16,680,11.8
+3,Columbus,1,17,786,11.8
+3,Columbus,1,18,876,11.8
+3,Columbus,1,19,818,11.8
+3,Columbus,1,20,676,11.8
+3,Columbus,1,21,540,11.8
+3,Columbus,1,22,500,11.8
+3,Columbus,1,23,500,11.8
+3,Columbus,2,0,500,11.8
+3,Columbus,2,1,500,11.8
+3,Columbus,2,2,500,11.8
+3,Columbus,2,3,500,11.8
+3,Columbus,2,4,500,11.8
+3,Columbus,2,5,500,11.8
+3,Columbus,2,6,500,11.8
+3,Columbus,2,7,500,11.8
+3,Columbus,2,8,500,11.8
+3,Columbus,2,9,501,11.8
+3,Columbus,2,10,644,11.8
+3,Columbus,2,11,700,11.8
+3,Columbus,2,12,899,11.8
+3,Columbus,2,13,829,11.8
+3,Columbus,2,14,685,11.8
+3,Columbus,2,15,688,11.8
+3,Columbus,2,16,623,11.8
+3,Columbus,2,17,705,11.8
+3,Columbus,2,18,653,11.8
+3,Columbus,2,19,676,11.8
+3,Columbus,2,20,587,11.8
+3,Columbus,2,21,500,11.8
+3,Columbus,2,22,500,11.8
+3,Columbus,2,23,500,11.8
+3,Columbus,3,0,500,11.8
+3,Columbus,3,1,500,11.8
+3,Columbus,3,2,500,11.8
+3,Columbus,3,3,500,11.8
+3,Columbus,3,4,500,11.8
+3,Columbus,3,5,500,11.8
+3,Columbus,3,6,500,11.8
+3,Columbus,3,7,500,11.8
+3,Columbus,3,8,500,11.8
+3,Columbus,3,9,500,11.8
+3,Columbus,3,10,500,11.8
+3,Columbus,3,11,514,11.8
+3,Columbus,3,12,545,11.8
+3,Columbus,3,13,582,11.8
+3,Columbus,3,14,530,11.8
+3,Columbus,3,15,500,11.8
+3,Columbus,3,16,500,11.8
+3,Columbus,3,17,500,11.8
+3,Columbus,3,18,515,11.8
+3,Columbus,3,19,510,11.8
+3,Columbus,3,20,500,11.8
+3,Columbus,3,21,500,11.8
+3,Columbus,3,22,500,11.8
+3,Columbus,3,23,500,11.8
+3,Columbus,4,0,500,11.8
+3,Columbus,4,1,500,11.8
+3,Columbus,4,2,500,11.8
+3,Columbus,4,3,500,11.8
+3,Columbus,4,4,500,11.8
+3,Columbus,4,5,500,11.8
+3,Columbus,4,6,500,11.8
+3,Columbus,4,7,500,11.8
+3,Columbus,4,8,500,11.8
+3,Columbus,4,9,500,11.8
+3,Columbus,4,10,500,11.8
+3,Columbus,4,11,500,11.8
+3,Columbus,4,12,500,11.8
+3,Columbus,4,13,500,11.8
+3,Columbus,4,14,500,11.8
+3,Columbus,4,15,500,11.8
+3,Columbus,4,16,500,11.8
+3,Columbus,4,17,500,11.8
+3,Columbus,4,18,500,11.8
+3,Columbus,4,19,500,11.8
+3,Columbus,4,20,500,11.8
+3,Columbus,4,21,500,11.8
+3,Columbus,4,22,500,11.8
+3,Columbus,4,23,500,11.8
+4,Dallas,0,0,543,29.0
+4,Dallas,0,1,512,29.0
+4,Dallas,0,2,500,29.0
+4,Dallas,0,3,500,29.0
+4,Dallas,0,4,500,29.0
+4,Dallas,0,5,500,29.0
+4,Dallas,0,6,524,29.0
+4,Dallas,0,7,1200,29.0
+4,Dallas,0,8,1200,29.0
+4,Dallas,0,9,1200,29.0
+4,Dallas,0,10,1200,29.0
+4,Dallas,0,11,1200,29.0
+4,Dallas,0,12,1200,29.0
+4,Dallas,0,13,1200,29.0
+4,Dallas,0,14,1200,29.0
+4,Dallas,0,15,1200,29.0
+4,Dallas,0,16,1200,29.0
+4,Dallas,0,17,1200,29.0
+4,Dallas,0,18,1200,29.0
+4,Dallas,0,19,1200,29.0
+4,Dallas,0,20,1200,29.0
+4,Dallas,0,21,1200,29.0
+4,Dallas,0,22,1200,29.0
+4,Dallas,0,23,1200,29.0
+4,Dallas,1,0,500,29.0
+4,Dallas,1,1,500,29.0
+4,Dallas,1,2,500,29.0
+4,Dallas,1,3,500,29.0
+4,Dallas,1,4,500,29.0
+4,Dallas,1,5,500,29.0
+4,Dallas,1,6,500,29.0
+4,Dallas,1,7,1143,29.0
+4,Dallas,1,8,1200,29.0
+4,Dallas,1,9,1200,29.0
+4,Dallas,1,10,1200,29.0
+4,Dallas,1,11,1200,29.0
+4,Dallas,1,12,1200,29.0
+4,Dallas,1,13,1200,29.0
+4,Dallas,1,14,1200,29.0
+4,Dallas,1,15,1200,29.0
+4,Dallas,1,16,1200,29.0
+4,Dallas,1,17,1200,29.0
+4,Dallas,1,18,1200,29.0
+4,Dallas,1,19,1200,29.0
+4,Dallas,1,20,1200,29.0
+4,Dallas,1,21,1200,29.0
+4,Dallas,1,22,1200,29.0
+4,Dallas,1,23,1149,29.0
+4,Dallas,2,0,500,29.0
+4,Dallas,2,1,500,29.0
+4,Dallas,2,2,500,29.0
+4,Dallas,2,3,500,29.0
+4,Dallas,2,4,500,29.0
+4,Dallas,2,5,500,29.0
+4,Dallas,2,6,500,29.0
+4,Dallas,2,7,924,29.0
+4,Dallas,2,8,1142,29.0
+4,Dallas,2,9,1200,29.0
+4,Dallas,2,10,1200,29.0
+4,Dallas,2,11,1200,29.0
+4,Dallas,2,12,1200,29.0
+4,Dallas,2,13,1200,29.0
+4,Dallas,2,14,1200,29.0
+4,Dallas,2,15,1200,29.0
+4,Dallas,2,16,1200,29.0
+4,Dallas,2,17,1200,29.0
+4,Dallas,2,18,1200,29.0
+4,Dallas,2,19,1200,29.0
+4,Dallas,2,20,1200,29.0
+4,Dallas,2,21,1200,29.0
+4,Dallas,2,22,1200,29.0
+4,Dallas,2,23,913,29.0
+4,Dallas,3,0,500,29.0
+4,Dallas,3,1,500,29.0
+4,Dallas,3,2,500,29.0
+4,Dallas,3,3,500,29.0
+4,Dallas,3,4,500,29.0
+4,Dallas,3,5,500,29.0
+4,Dallas,3,6,500,29.0
+4,Dallas,3,7,678,29.0
+4,Dallas,3,8,938,29.0
+4,Dallas,3,9,1200,29.0
+4,Dallas,3,10,1200,29.0
+4,Dallas,3,11,1200,29.0
+4,Dallas,3,12,1200,29.0
+4,Dallas,3,13,1200,29.0
+4,Dallas,3,14,1200,29.0
+4,Dallas,3,15,1200,29.0
+4,Dallas,3,16,1200,29.0
+4,Dallas,3,17,1200,29.0
+4,Dallas,3,18,1200,29.0
+4,Dallas,3,19,1200,29.0
+4,Dallas,3,20,1200,29.0
+4,Dallas,3,21,1131,29.0
+4,Dallas,3,22,968,29.0
+4,Dallas,3,23,598,29.0
+4,Dallas,4,0,500,29.0
+4,Dallas,4,1,500,29.0
+4,Dallas,4,2,500,29.0
+4,Dallas,4,3,500,29.0
+4,Dallas,4,4,500,29.0
+4,Dallas,4,5,500,29.0
+4,Dallas,4,6,500,29.0
+4,Dallas,4,7,500,29.0
+4,Dallas,4,8,500,29.0
+4,Dallas,4,9,500,29.0
+4,Dallas,4,10,531,29.0
+4,Dallas,4,11,605,29.0
+4,Dallas,4,12,773,29.0
+4,Dallas,4,13,650,29.0
+4,Dallas,4,14,644,29.0
+4,Dallas,4,15,575,29.0
+4,Dallas,4,16,566,29.0
+4,Dallas,4,17,608,29.0
+4,Dallas,4,18,685,29.0
+4,Dallas,4,19,574,29.0
+4,Dallas,4,20,500,29.0
+4,Dallas,4,21,500,29.0
+4,Dallas,4,22,500,29.0
+4,Dallas,4,23,500,29.0
+5,Oregon,0,0,500,4.2
+5,Oregon,0,1,500,4.2
+5,Oregon,0,2,500,4.2
+5,Oregon,0,3,500,4.2
+5,Oregon,0,4,500,4.2
+5,Oregon,0,5,500,4.2
+5,Oregon,0,6,500,4.2
+5,Oregon,0,7,500,4.2
+5,Oregon,0,8,500,4.2
+5,Oregon,0,9,718,4.2
+5,Oregon,0,10,808,4.2
+5,Oregon,0,11,895,4.2
+5,Oregon,0,12,1038,4.2
+5,Oregon,0,13,894,4.2
+5,Oregon,0,14,1033,4.2
+5,Oregon,0,15,844,4.2
+5,Oregon,0,16,782,4.2
+5,Oregon,0,17,875,4.2
+5,Oregon,0,18,925,4.2
+5,Oregon,0,19,849,4.2
+5,Oregon,0,20,679,4.2
+5,Oregon,0,21,550,4.2
+5,Oregon,0,22,500,4.2
+5,Oregon,0,23,500,4.2
+5,Oregon,1,0,500,4.2
+5,Oregon,1,1,500,4.2
+5,Oregon,1,2,500,4.2
+5,Oregon,1,3,500,4.2
+5,Oregon,1,4,500,4.2
+5,Oregon,1,5,500,4.2
+5,Oregon,1,6,500,4.2
+5,Oregon,1,7,500,4.2
+5,Oregon,1,8,500,4.2
+5,Oregon,1,9,552,4.2
+5,Oregon,1,10,634,4.2
+5,Oregon,1,11,707,4.2
+5,Oregon,1,12,944,4.2
+5,Oregon,1,13,847,4.2
+5,Oregon,1,14,725,4.2
+5,Oregon,1,15,673,4.2
+5,Oregon,1,16,664,4.2
+5,Oregon,1,17,812,4.2
+5,Oregon,1,18,776,4.2
+5,Oregon,1,19,664,4.2
+5,Oregon,1,20,614,4.2
+5,Oregon,1,21,500,4.2
+5,Oregon,1,22,500,4.2
+5,Oregon,1,23,500,4.2
+5,Oregon,2,0,500,4.2
+5,Oregon,2,1,500,4.2
+5,Oregon,2,2,500,4.2
+5,Oregon,2,3,500,4.2
+5,Oregon,2,4,500,4.2
+5,Oregon,2,5,500,4.2
+5,Oregon,2,6,500,4.2
+5,Oregon,2,7,500,4.2
+5,Oregon,2,8,500,4.2
+5,Oregon,2,9,500,4.2
+5,Oregon,2,10,540,4.2
+5,Oregon,2,11,618,4.2
+5,Oregon,2,12,689,4.2
+5,Oregon,2,13,646,4.2
+5,Oregon,2,14,622,4.2
+5,Oregon,2,15,557,4.2
+5,Oregon,2,16,506,4.2
+5,Oregon,2,17,582,4.2
+5,Oregon,2,18,613,4.2
+5,Oregon,2,19,637,4.2
+5,Oregon,2,20,500,4.2
+5,Oregon,2,21,500,4.2
+5,Oregon,2,22,500,4.2
+5,Oregon,2,23,500,4.2
+5,Oregon,3,0,500,4.2
+5,Oregon,3,1,500,4.2
+5,Oregon,3,2,500,4.2
+5,Oregon,3,3,500,4.2
+5,Oregon,3,4,500,4.2
+5,Oregon,3,5,500,4.2
+5,Oregon,3,6,500,4.2
+5,Oregon,3,7,500,4.2
+5,Oregon,3,8,500,4.2
+5,Oregon,3,9,500,4.2
+5,Oregon,3,10,500,4.2
+5,Oregon,3,11,500,4.2
+5,Oregon,3,12,500,4.2
+5,Oregon,3,13,520,4.2
+5,Oregon,3,14,500,4.2
+5,Oregon,3,15,500,4.2
+5,Oregon,3,16,500,4.2
+5,Oregon,3,17,500,4.2
+5,Oregon,3,18,500,4.2
+5,Oregon,3,19,500,4.2
+5,Oregon,3,20,500,4.2
+5,Oregon,3,21,500,4.2
+5,Oregon,3,22,500,4.2
+5,Oregon,3,23,500,4.2
+5,Oregon,4,0,500,4.2
+5,Oregon,4,1,500,4.2
+5,Oregon,4,2,500,4.2
+5,Oregon,4,3,500,4.2
+5,Oregon,4,4,500,4.2
+5,Oregon,4,5,500,4.2
+5,Oregon,4,6,500,4.2
+5,Oregon,4,7,500,4.2
+5,Oregon,4,8,500,4.2
+5,Oregon,4,9,500,4.2
+5,Oregon,4,10,500,4.2
+5,Oregon,4,11,500,4.2
+5,Oregon,4,12,500,4.2
+5,Oregon,4,13,500,4.2
+5,Oregon,4,14,500,4.2
+5,Oregon,4,15,500,4.2
+5,Oregon,4,16,500,4.2
+5,Oregon,4,17,500,4.2
+5,Oregon,4,18,500,4.2
+5,Oregon,4,19,500,4.2
+5,Oregon,4,20,500,4.2
+5,Oregon,4,21,500,4.2
+5,Oregon,4,22,500,4.2
+5,Oregon,4,23,500,4.2
+6,Los Angeles,0,0,857,39.5
+6,Los Angeles,0,1,752,39.5
+6,Los Angeles,0,2,500,39.5
+6,Los Angeles,0,3,500,39.5
+6,Los Angeles,0,4,500,39.5
+6,Los Angeles,0,5,500,39.5
+6,Los Angeles,0,6,842,39.5
+6,Los Angeles,0,7,1200,39.5
+6,Los Angeles,0,8,1200,39.5
+6,Los Angeles,0,9,1200,39.5
+6,Los Angeles,0,10,1200,39.5
+6,Los Angeles,0,11,1200,39.5
+6,Los Angeles,0,12,1200,39.5
+6,Los Angeles,0,13,1200,39.5
+6,Los Angeles,0,14,1200,39.5
+6,Los Angeles,0,15,1200,39.5
+6,Los Angeles,0,16,1200,39.5
+6,Los Angeles,0,17,1200,39.5
+6,Los Angeles,0,18,1200,39.5
+6,Los Angeles,0,19,1200,39.5
+6,Los Angeles,0,20,1200,39.5
+6,Los Angeles,0,21,1200,39.5
+6,Los Angeles,0,22,1200,39.5
+6,Los Angeles,0,23,1200,39.5
+6,Los Angeles,1,0,761,39.5
+6,Los Angeles,1,1,703,39.5
+6,Los Angeles,1,2,500,39.5
+6,Los Angeles,1,3,500,39.5
+6,Los Angeles,1,4,500,39.5
+6,Los Angeles,1,5,500,39.5
+6,Los Angeles,1,6,694,39.5
+6,Los Angeles,1,7,1200,39.5
+6,Los Angeles,1,8,1200,39.5
+6,Los Angeles,1,9,1200,39.5
+6,Los Angeles,1,10,1200,39.5
+6,Los Angeles,1,11,1200,39.5
+6,Los Angeles,1,12,1200,39.5
+6,Los Angeles,1,13,1200,39.5
+6,Los Angeles,1,14,1200,39.5
+6,Los Angeles,1,15,1200,39.5
+6,Los Angeles,1,16,1200,39.5
+6,Los Angeles,1,17,1200,39.5
+6,Los Angeles,1,18,1200,39.5
+6,Los Angeles,1,19,1200,39.5
+6,Los Angeles,1,20,1200,39.5
+6,Los Angeles,1,21,1200,39.5
+6,Los Angeles,1,22,1200,39.5
+6,Los Angeles,1,23,1200,39.5
+6,Los Angeles,2,0,556,39.5
+6,Los Angeles,2,1,652,39.5
+6,Los Angeles,2,2,500,39.5
+6,Los Angeles,2,3,500,39.5
+6,Los Angeles,2,4,500,39.5
+6,Los Angeles,2,5,500,39.5
+6,Los Angeles,2,6,605,39.5
+6,Los Angeles,2,7,1200,39.5
+6,Los Angeles,2,8,1200,39.5
+6,Los Angeles,2,9,1200,39.5
+6,Los Angeles,2,10,1200,39.5
+6,Los Angeles,2,11,1200,39.5
+6,Los Angeles,2,12,1200,39.5
+6,Los Angeles,2,13,1200,39.5
+6,Los Angeles,2,14,1200,39.5
+6,Los Angeles,2,15,1200,39.5
+6,Los Angeles,2,16,1200,39.5
+6,Los Angeles,2,17,1200,39.5
+6,Los Angeles,2,18,1200,39.5
+6,Los Angeles,2,19,1200,39.5
+6,Los Angeles,2,20,1200,39.5
+6,Los Angeles,2,21,1200,39.5
+6,Los Angeles,2,22,1200,39.5
+6,Los Angeles,2,23,1200,39.5
+6,Los Angeles,3,0,500,39.5
+6,Los Angeles,3,1,500,39.5
+6,Los Angeles,3,2,500,39.5
+6,Los Angeles,3,3,500,39.5
+6,Los Angeles,3,4,500,39.5
+6,Los Angeles,3,5,500,39.5
+6,Los Angeles,3,6,500,39.5
+6,Los Angeles,3,7,1051,39.5
+6,Los Angeles,3,8,1200,39.5
+6,Los Angeles,3,9,1200,39.5
+6,Los Angeles,3,10,1200,39.5
+6,Los Angeles,3,11,1200,39.5
+6,Los Angeles,3,12,1200,39.5
+6,Los Angeles,3,13,1200,39.5
+6,Los Angeles,3,14,1200,39.5
+6,Los Angeles,3,15,1200,39.5
+6,Los Angeles,3,16,1200,39.5
+6,Los Angeles,3,17,1200,39.5
+6,Los Angeles,3,18,1200,39.5
+6,Los Angeles,3,19,1200,39.5
+6,Los Angeles,3,20,1200,39.5
+6,Los Angeles,3,21,1200,39.5
+6,Los Angeles,3,22,1200,39.5
+6,Los Angeles,3,23,956,39.5
+6,Los Angeles,4,0,500,39.5
+6,Los Angeles,4,1,500,39.5
+6,Los Angeles,4,2,500,39.5
+6,Los Angeles,4,3,500,39.5
+6,Los Angeles,4,4,500,39.5
+6,Los Angeles,4,5,500,39.5
+6,Los Angeles,4,6,500,39.5
+6,Los Angeles,4,7,500,39.5
+6,Los Angeles,4,8,500,39.5
+6,Los Angeles,4,9,777,39.5
+6,Los Angeles,4,10,923,39.5
+6,Los Angeles,4,11,941,39.5
+6,Los Angeles,4,12,1074,39.5
+6,Los Angeles,4,13,1019,39.5
+6,Los Angeles,4,14,892,39.5
+6,Los Angeles,4,15,855,39.5
+6,Los Angeles,4,16,789,39.5
+6,Los Angeles,4,17,864,39.5
+6,Los Angeles,4,18,969,39.5
+6,Los Angeles,4,19,919,39.5
+6,Los Angeles,4,20,852,39.5
+6,Los Angeles,4,21,542,39.5
+6,Los Angeles,4,22,500,39.5
+6,Los Angeles,4,23,500,39.5
+7,Salt Lake City,0,0,500,3.3
+7,Salt Lake City,0,1,500,3.3
+7,Salt Lake City,0,2,500,3.3
+7,Salt Lake City,0,3,500,3.3
+7,Salt Lake City,0,4,500,3.3
+7,Salt Lake City,0,5,500,3.3
+7,Salt Lake City,0,6,500,3.3
+7,Salt Lake City,0,7,500,3.3
+7,Salt Lake City,0,8,500,3.3
+7,Salt Lake City,0,9,500,3.3
+7,Salt Lake City,0,10,500,3.3
+7,Salt Lake City,0,11,500,3.3
+7,Salt Lake City,0,12,529,3.3
+7,Salt Lake City,0,13,558,3.3
+7,Salt Lake City,0,14,526,3.3
+7,Salt Lake City,0,15,500,3.3
+7,Salt Lake City,0,16,500,3.3
+7,Salt Lake City,0,17,500,3.3
+7,Salt Lake City,0,18,500,3.3
+7,Salt Lake City,0,19,500,3.3
+7,Salt Lake City,0,20,500,3.3
+7,Salt Lake City,0,21,500,3.3
+7,Salt Lake City,0,22,500,3.3
+7,Salt Lake City,0,23,500,3.3
+7,Salt Lake City,1,0,500,3.3
+7,Salt Lake City,1,1,500,3.3
+7,Salt Lake City,1,2,500,3.3
+7,Salt Lake City,1,3,500,3.3
+7,Salt Lake City,1,4,500,3.3
+7,Salt Lake City,1,5,500,3.3
+7,Salt Lake City,1,6,500,3.3
+7,Salt Lake City,1,7,500,3.3
+7,Salt Lake City,1,8,500,3.3
+7,Salt Lake City,1,9,500,3.3
+7,Salt Lake City,1,10,500,3.3
+7,Salt Lake City,1,11,500,3.3
+7,Salt Lake City,1,12,500,3.3
+7,Salt Lake City,1,13,500,3.3
+7,Salt Lake City,1,14,500,3.3
+7,Salt Lake City,1,15,500,3.3
+7,Salt Lake City,1,16,500,3.3
+7,Salt Lake City,1,17,500,3.3
+7,Salt Lake City,1,18,500,3.3
+7,Salt Lake City,1,19,500,3.3
+7,Salt Lake City,1,20,500,3.3
+7,Salt Lake City,1,21,500,3.3
+7,Salt Lake City,1,22,500,3.3
+7,Salt Lake City,1,23,500,3.3
+7,Salt Lake City,2,0,500,3.3
+7,Salt Lake City,2,1,500,3.3
+7,Salt Lake City,2,2,500,3.3
+7,Salt Lake City,2,3,500,3.3
+7,Salt Lake City,2,4,500,3.3
+7,Salt Lake City,2,5,500,3.3
+7,Salt Lake City,2,6,500,3.3
+7,Salt Lake City,2,7,500,3.3
+7,Salt Lake City,2,8,500,3.3
+7,Salt Lake City,2,9,500,3.3
+7,Salt Lake City,2,10,500,3.3
+7,Salt Lake City,2,11,500,3.3
+7,Salt Lake City,2,12,500,3.3
+7,Salt Lake City,2,13,500,3.3
+7,Salt Lake City,2,14,500,3.3
+7,Salt Lake City,2,15,500,3.3
+7,Salt Lake City,2,16,500,3.3
+7,Salt Lake City,2,17,500,3.3
+7,Salt Lake City,2,18,500,3.3
+7,Salt Lake City,2,19,500,3.3
+7,Salt Lake City,2,20,500,3.3
+7,Salt Lake City,2,21,500,3.3
+7,Salt Lake City,2,22,500,3.3
+7,Salt Lake City,2,23,500,3.3
+7,Salt Lake City,3,0,500,3.3
+7,Salt Lake City,3,1,500,3.3
+7,Salt Lake City,3,2,500,3.3
+7,Salt Lake City,3,3,500,3.3
+7,Salt Lake City,3,4,500,3.3
+7,Salt Lake City,3,5,500,3.3
+7,Salt Lake City,3,6,500,3.3
+7,Salt Lake City,3,7,500,3.3
+7,Salt Lake City,3,8,500,3.3
+7,Salt Lake City,3,9,500,3.3
+7,Salt Lake City,3,10,500,3.3
+7,Salt Lake City,3,11,500,3.3
+7,Salt Lake City,3,12,500,3.3
+7,Salt Lake City,3,13,500,3.3
+7,Salt Lake City,3,14,500,3.3
+7,Salt Lake City,3,15,500,3.3
+7,Salt Lake City,3,16,500,3.3
+7,Salt Lake City,3,17,500,3.3
+7,Salt Lake City,3,18,500,3.3
+7,Salt Lake City,3,19,500,3.3
+7,Salt Lake City,3,20,500,3.3
+7,Salt Lake City,3,21,500,3.3
+7,Salt Lake City,3,22,500,3.3
+7,Salt Lake City,3,23,500,3.3
+7,Salt Lake City,4,0,500,3.3
+7,Salt Lake City,4,1,500,3.3
+7,Salt Lake City,4,2,500,3.3
+7,Salt Lake City,4,3,500,3.3
+7,Salt Lake City,4,4,500,3.3
+7,Salt Lake City,4,5,500,3.3
+7,Salt Lake City,4,6,500,3.3
+7,Salt Lake City,4,7,500,3.3
+7,Salt Lake City,4,8,500,3.3
+7,Salt Lake City,4,9,500,3.3
+7,Salt Lake City,4,10,500,3.3
+7,Salt Lake City,4,11,500,3.3
+7,Salt Lake City,4,12,500,3.3
+7,Salt Lake City,4,13,500,3.3
+7,Salt Lake City,4,14,500,3.3
+7,Salt Lake City,4,15,500,3.3
+7,Salt Lake City,4,16,500,3.3
+7,Salt Lake City,4,17,500,3.3
+7,Salt Lake City,4,18,500,3.3
+7,Salt Lake City,4,19,500,3.3
+7,Salt Lake City,4,20,500,3.3
+7,Salt Lake City,4,21,500,3.3
+7,Salt Lake City,4,22,500,3.3
+7,Salt Lake City,4,23,500,3.3
+8,Las Vegas,0,0,500,3.1
+8,Las Vegas,0,1,500,3.1
+8,Las Vegas,0,2,500,3.1
+8,Las Vegas,0,3,500,3.1
+8,Las Vegas,0,4,500,3.1
+8,Las Vegas,0,5,500,3.1
+8,Las Vegas,0,6,500,3.1
+8,Las Vegas,0,7,500,3.1
+8,Las Vegas,0,8,500,3.1
+8,Las Vegas,0,9,521,3.1
+8,Las Vegas,0,10,693,3.1
+8,Las Vegas,0,11,764,3.1
+8,Las Vegas,0,12,955,3.1
+8,Las Vegas,0,13,819,3.1
+8,Las Vegas,0,14,776,3.1
+8,Las Vegas,0,15,653,3.1
+8,Las Vegas,0,16,667,3.1
+8,Las Vegas,0,17,628,3.1
+8,Las Vegas,0,18,719,3.1
+8,Las Vegas,0,19,778,3.1
+8,Las Vegas,0,20,664,3.1
+8,Las Vegas,0,21,500,3.1
+8,Las Vegas,0,22,500,3.1
+8,Las Vegas,0,23,500,3.1
+8,Las Vegas,1,0,500,3.1
+8,Las Vegas,1,1,500,3.1
+8,Las Vegas,1,2,500,3.1
+8,Las Vegas,1,3,500,3.1
+8,Las Vegas,1,4,500,3.1
+8,Las Vegas,1,5,500,3.1
+8,Las Vegas,1,6,500,3.1
+8,Las Vegas,1,7,500,3.1
+8,Las Vegas,1,8,500,3.1
+8,Las Vegas,1,9,500,3.1
+8,Las Vegas,1,10,558,3.1
+8,Las Vegas,1,11,686,3.1
+8,Las Vegas,1,12,888,3.1
+8,Las Vegas,1,13,778,3.1
+8,Las Vegas,1,14,672,3.1
+8,Las Vegas,1,15,673,3.1
+8,Las Vegas,1,16,654,3.1
+8,Las Vegas,1,17,687,3.1
+8,Las Vegas,1,18,701,3.1
+8,Las Vegas,1,19,621,3.1
+8,Las Vegas,1,20,575,3.1
+8,Las Vegas,1,21,500,3.1
+8,Las Vegas,1,22,500,3.1
+8,Las Vegas,1,23,500,3.1
+8,Las Vegas,2,0,500,3.1
+8,Las Vegas,2,1,500,3.1
+8,Las Vegas,2,2,500,3.1
+8,Las Vegas,2,3,500,3.1
+8,Las Vegas,2,4,500,3.1
+8,Las Vegas,2,5,500,3.1
+8,Las Vegas,2,6,500,3.1
+8,Las Vegas,2,7,500,3.1
+8,Las Vegas,2,8,500,3.1
+8,Las Vegas,2,9,500,3.1
+8,Las Vegas,2,10,500,3.1
+8,Las Vegas,2,11,564,3.1
+8,Las Vegas,2,12,653,3.1
+8,Las Vegas,2,13,567,3.1
+8,Las Vegas,2,14,548,3.1
+8,Las Vegas,2,15,583,3.1
+8,Las Vegas,2,16,523,3.1
+8,Las Vegas,2,17,522,3.1
+8,Las Vegas,2,18,550,3.1
+8,Las Vegas,2,19,511,3.1
+8,Las Vegas,2,20,500,3.1
+8,Las Vegas,2,21,500,3.1
+8,Las Vegas,2,22,500,3.1
+8,Las Vegas,2,23,500,3.1
+8,Las Vegas,3,0,500,3.1
+8,Las Vegas,3,1,500,3.1
+8,Las Vegas,3,2,500,3.1
+8,Las Vegas,3,3,500,3.1
+8,Las Vegas,3,4,500,3.1
+8,Las Vegas,3,5,500,3.1
+8,Las Vegas,3,6,500,3.1
+8,Las Vegas,3,7,500,3.1
+8,Las Vegas,3,8,500,3.1
+8,Las Vegas,3,9,500,3.1
+8,Las Vegas,3,10,500,3.1
+8,Las Vegas,3,11,500,3.1
+8,Las Vegas,3,12,500,3.1
+8,Las Vegas,3,13,500,3.1
+8,Las Vegas,3,14,500,3.1
+8,Las Vegas,3,15,500,3.1
+8,Las Vegas,3,16,500,3.1
+8,Las Vegas,3,17,500,3.1
+8,Las Vegas,3,18,500,3.1
+8,Las Vegas,3,19,500,3.1
+8,Las Vegas,3,20,500,3.1
+8,Las Vegas,3,21,500,3.1
+8,Las Vegas,3,22,500,3.1
+8,Las Vegas,3,23,500,3.1
+8,Las Vegas,4,0,500,3.1
+8,Las Vegas,4,1,500,3.1
+8,Las Vegas,4,2,500,3.1
+8,Las Vegas,4,3,500,3.1
+8,Las Vegas,4,4,500,3.1
+8,Las Vegas,4,5,500,3.1
+8,Las Vegas,4,6,500,3.1
+8,Las Vegas,4,7,500,3.1
+8,Las Vegas,4,8,500,3.1
+8,Las Vegas,4,9,500,3.1
+8,Las Vegas,4,10,500,3.1
+8,Las Vegas,4,11,500,3.1
+8,Las Vegas,4,12,500,3.1
+8,Las Vegas,4,13,500,3.1
+8,Las Vegas,4,14,500,3.1
+8,Las Vegas,4,15,500,3.1
+8,Las Vegas,4,16,500,3.1
+8,Las Vegas,4,17,500,3.1
+8,Las Vegas,4,18,500,3.1
+8,Las Vegas,4,19,500,3.1
+8,Las Vegas,4,20,500,3.1
+8,Las Vegas,4,21,500,3.1
+8,Las Vegas,4,22,500,3.1
+8,Las Vegas,4,23,500,3.1

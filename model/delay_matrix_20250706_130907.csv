@@ -1,0 +1,82 @@
+source_region,source_location,destination_datacenter,destination_location,delay
+0,Iowa,0,Iowa,0.0039963209507788994
+0,Iowa,1,South Carolina,0.039
+0,Iowa,2,North Virginia,0.034
+0,Iowa,3,Columbus,0.027
+0,Iowa,4,Dallas,0.026
+0,Iowa,5,Oregon,0.044
+0,Iowa,6,Los Angeles,0.049
+0,Iowa,7,Salt Lake City,0.035
+0,Iowa,8,Las Vegas,0.042
+1,South Carolina,0,Iowa,0.039
+1,South Carolina,1,South Carolina,0.00860571445127933
+1,South Carolina,2,North Virginia,0.021
+1,South Carolina,3,Columbus,0.032
+1,South Carolina,4,Dallas,0.041
+1,South Carolina,5,Oregon,0.072
+1,South Carolina,6,Los Angeles,0.068
+1,South Carolina,7,Salt Lake City,0.062
+1,South Carolina,8,Las Vegas,0.059
+2,North Virginia,0,Iowa,0.034
+2,North Virginia,1,South Carolina,0.021
+2,North Virginia,2,North Virginia,0.006855951534491241
+2,North Virginia,3,Columbus,0.019
+2,North Virginia,4,Dallas,0.046
+2,North Virginia,5,Oregon,0.065
+2,North Virginia,6,Los Angeles,0.061
+2,North Virginia,7,Salt Lake City,0.057
+2,North Virginia,8,Las Vegas,0.055
+3,Columbus,0,Iowa,0.027
+3,Columbus,1,South Carolina,0.032
+3,Columbus,2,North Virginia,0.019
+3,Columbus,3,Columbus,0.005789267873576293
+3,Columbus,4,Dallas,0.035
+3,Columbus,5,Oregon,0.052
+3,Columbus,6,Los Angeles,0.057
+3,Columbus,7,Salt Lake City,0.045
+3,Columbus,8,Las Vegas,0.049
+4,Dallas,0,Iowa,0.026
+4,Dallas,1,South Carolina,0.041
+4,Dallas,2,North Virginia,0.046
+4,Dallas,3,Columbus,0.035
+4,Dallas,4,Dallas,0.0022481491235394925
+4,Dallas,5,Oregon,0.048
+4,Dallas,6,Los Angeles,0.037
+4,Dallas,7,Salt Lake City,0.033
+4,Dallas,8,Las Vegas,0.031
+5,Oregon,0,Iowa,0.044
+5,Oregon,1,South Carolina,0.072
+5,Oregon,2,North Virginia,0.065
+5,Oregon,3,Columbus,0.052
+5,Oregon,4,Dallas,0.048
+5,Oregon,5,Oregon,0.002247956162689621
+5,Oregon,6,Los Angeles,0.023
+5,Oregon,7,Salt Lake City,0.02
+5,Oregon,8,Las Vegas,0.027
+6,Los Angeles,0,Iowa,0.049
+6,Los Angeles,1,South Carolina,0.068
+6,Los Angeles,2,North Virginia,0.061
+6,Los Angeles,3,Columbus,0.057
+6,Los Angeles,4,Dallas,0.037
+6,Los Angeles,5,Oregon,0.023
+6,Los Angeles,6,Los Angeles,0.0014646688973455957
+6,Los Angeles,7,Salt Lake City,0.018
+6,Los Angeles,8,Las Vegas,0.012
+7,Salt Lake City,0,Iowa,0.035
+7,Salt Lake City,1,South Carolina,0.062
+7,Salt Lake City,2,North Virginia,0.057
+7,Salt Lake City,3,Columbus,0.045
+7,Salt Lake City,4,Dallas,0.033
+7,Salt Lake City,5,Oregon,0.02
+7,Salt Lake City,6,Los Angeles,0.018
+7,Salt Lake City,7,Salt Lake City,0.007929409166199481
+7,Salt Lake City,8,Las Vegas,0.013
+8,Las Vegas,0,Iowa,0.042
+8,Las Vegas,1,South Carolina,0.059
+8,Las Vegas,2,North Virginia,0.055
+8,Las Vegas,3,Columbus,0.049
+8,Las Vegas,4,Dallas,0.031
+8,Las Vegas,5,Oregon,0.027
+8,Las Vegas,6,Los Angeles,0.012
+8,Las Vegas,7,Salt Lake City,0.013
+8,Las Vegas,8,Las Vegas,0.00580892009394567
